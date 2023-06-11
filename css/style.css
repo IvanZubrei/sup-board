@@ -582,7 +582,7 @@ img{
   margin-bottom: 50px;
 }
 
-.footer__menu-list{
+.footer__menu-items{
   font-weight: 700;
   display: flex;
   justify-content: space-between;
@@ -682,7 +682,7 @@ img{
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
   }
-  .footer__menu-list{
+  .footer__menu-items{
     display: block;
     text-align: center;
   }
